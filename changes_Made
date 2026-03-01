@@ -1,0 +1,3 @@
+Progressive Web App changes
+Used Firebase instead of Local Storage to hold leads data. Utilized push, remove, onValue. 
+Added favicon for browser icon.
