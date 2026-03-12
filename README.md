@@ -1,19 +1,11 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+Leads Tracker Chrome Extension
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Built a simple Chrome extension that allows users to save and manage website URLs as leads, demonstrating JavaScript local storage, DOM manipulation, and interaction with the Chrome browser API.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+To get a quick demo: https://leads-tracker-app-taraporevala.netlify.app/
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+What I learned
+addEventListener(), used to capture certain user actions
+innerHTML, used to manipulate a reference to a DOM element in JS
+template strings, used to easily write out HTML in JS
+local storage, locally store variables so that refreshing the page won't delete all information
